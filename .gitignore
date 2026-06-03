@@ -10,8 +10,8 @@ data/*
 !data/.gitkeep
 checkpoints/*
 !checkpoints/.gitkeep
-outputs/*
-!outputs/.gitkeep
+# outputs/*
+# !outputs/.gitkeep
 
 *.zip
 *.tar
@@ -21,7 +21,7 @@ outputs/*
 *.ckpt
 *.onnx
 *.ort
-
+*.data
 # Experiment tracking
 wandb/
 

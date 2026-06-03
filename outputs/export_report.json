@@ -1,0 +1,13 @@
+{
+  "onnx_path": "outputs\\vit_smartcampus.onnx",
+  "checkpoint": "D:\\KHMT_16-01\\Deep learning\\csc4005-lab5-khmt_1601_nhom_9_nlp_dl\\outputs\\vit_b16_head_only\\best_model.pt",
+  "model_name": "vit_b_16",
+  "num_classes": 5,
+  "img_size": 224,
+  "opset": 17,
+  "dynamic_batch": true,
+  "input_name": "input",
+  "output_name": "logits",
+  "onnx_size_mb": 0.10294151306152344,
+  "status": "exported_and_checked"
+}
