@@ -1,9 +1,11 @@
 # CSC4005 Lab 6 Report – Export ONNX + Consistency Test + Benchmark
 
 ## 1. Thông tin
-
-- Họ tên: Nguyễn Nam Cường
-- Mã sinh viên: 1671040005
+| STT | Họ tên | Mã sinh viên |
+|---|---|---|
+| 1 | Nguyễn Nam Cường | 1671040005 |
+| 2 | Nguyễn Trung Thành | 1671040025 |
+| 3 | Triệu Quốc Anh | 1671040002 |
 - Lớp: KHMT 16-01
 - Link GitHub repo:
 - Link checkpoint hoặc mô tả checkpoint sử dụng:
